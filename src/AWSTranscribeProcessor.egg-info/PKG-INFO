@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: AWSTranscribeProcessor
+Version: 0.0
+Summary: Rest API for sensor status dump.
+Home-page: https://github.com/HanaPoulpe/AWSTranscriveBase
+Author: Hana Burtin
+Author-email: hana@hanaburtin.net
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Environment :: Console
+Classifier: Framework :: AWS CDK
+Classifier: Framework :: AWS CDK :: 1
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Education :: Testing
+Classifier: Topic :: Multimedia
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Python: ~=3.9
+License-File: LICENSE
+
+UNKNOWN
+

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/AWSTranscribeProcessor.egg-info/PKG-INFO
+src/AWSTranscribeProcessor.egg-info/SOURCES.txt
+src/AWSTranscribeProcessor.egg-info/dependency_links.txt
+src/AWSTranscribeProcessor.egg-info/not-zip-safe
+src/AWSTranscribeProcessor.egg-info/requires.txt
+src/AWSTranscribeProcessor.egg-info/top_level.txt
