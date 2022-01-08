@@ -30,8 +30,8 @@ def lambda_handler(event: dict[str, any], context: aws_tyiping.LambdaContext):
         Settings={
             "ShowSpeakerLabels": True,
             "MaxSpeakerLabels": 5,
-            "ShowAlternatives": True,
-            "MaxAlternatives": 3,
+            "ShowAlternatives": False,
+            # "MaxAlternatives": 3,
         },
         Subtitles={
             "Formats": [output_format],

@@ -1,0 +1,3 @@
+/.build_lambda/
+/.venv/
+/cdk.out/
